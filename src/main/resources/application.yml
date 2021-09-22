@@ -1,0 +1,5 @@
+logger:
+  log:
+    com: DEBUG
+server:
+  port: 8888
